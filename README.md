@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1sNL72Wr2ya8Kx0Db1NnFJp
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## License
+
+[Space Child License v1.0](https://legal.spacechild.love/license) — source-available and peace-conditional: free for peaceful, humanitarian, commercial and defensive use; withheld for the uses in its Peace Clause. See `LICENSE` and `NOTICE`.
